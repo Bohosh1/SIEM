@@ -1,14 +1,14 @@
 <h1>Making a SIEM</h1>
 
 <h2>Description</h2>
-
+In this simple project I created a SIEM using a vitual machine. Then I made an alert that notified me of any succcessful login attempts. 
 <br />
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
