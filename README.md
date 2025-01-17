@@ -1,4 +1,4 @@
-<h1>Making a SIEM</h1>
+<h1>Building a SIEM</h1>
 
 <h2>Description</h2>
 In this simple project I created a SIEM using a vitual machine. Then I made an alert that notified me of any succcessful login attempts. 
@@ -11,7 +11,7 @@ In this simple project I created a SIEM using a vitual machine. Then I made an a
 <h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Create a VM: <br/>
 <img src=/>
 <br />
 <br />
