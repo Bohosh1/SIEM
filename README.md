@@ -1,7 +1,7 @@
 <h1>Building a SIEM</h1>
 
 <h2>Description</h2>
-In this simple project I created a SIEM using an Azure vitual machine. Then I made an alert that notified me of any succcessful login attempts. 
+In this simple project I created a SIEM using an Azure vitual machine. Then I made an alert that notified me of succcessful RDP login attempts. 
 <br />
 
 <h2>Environments Used </h2>
