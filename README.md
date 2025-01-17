@@ -11,27 +11,22 @@ In this simple project I created a SIEM using an Azure vitual machine. Then I ma
 <h2>Walk-through:</h2>
 
 <p align="center">
-Create a VM: <br/>
-<img src=/>
+First I created a VM and allowed RDP <br/>
 <br />
 <br />
-Allow RDP(3389): <br/>
+Next I created a log analytics workspace and added Sentinel <br/>
 <img src=""/>
 <br />
 <br />
-Create Log Analytics Workspace: <br/>
+Then I used a data connector to add VM log analytics to Sentinel <br/>
 <img src=""/>
 <br />
 <br />
-Use Data Connector <br/>
+I then created a Sentitel rule that checks successful RDP log ins <br/>
 <img src=""/>
 <br />
 <br />
-Create Sentitel Rule: <br/>
-<img src=""/>
-<br />
-<br />
-Use RDP <br/>
+Lastly I signed in using RDP <br/>
 <img src=""/>
 <br />
 <br />
